@@ -1,0 +1,4 @@
+C:/Users/quint/CLionProjects/labelling/cmake-build-debug/CMakeFiles/labelling.dir
+C:/Users/quint/CLionProjects/labelling/cmake-build-debug/CMakeFiles/libBV.dir
+C:/Users/quint/CLionProjects/labelling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/quint/CLionProjects/labelling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
